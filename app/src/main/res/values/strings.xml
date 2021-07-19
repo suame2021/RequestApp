@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week 7 Request App</string>
+    <string name="name">Name of Student</string>
+    <string name="id">Id</string>
+    <string name="price">Price</string>
+    <string name="add_student">Add New Student</string>
+    <string name="add">Add Student</string>
+    <string name="todo">TODO</string>
+    <string name="seat_number">Seat Number</string>
+</resources>
